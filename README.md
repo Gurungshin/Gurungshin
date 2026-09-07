@@ -23,5 +23,3 @@ Frontend-focused developer building responsive web applications with **React** a
 
 ---
 
-### 📊 GitHub Stats
-![Bijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurungshin&show_icons=true&theme=tokyonight)
